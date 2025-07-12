@@ -1,6 +1,5 @@
 # AWS-Portfolio-cicd
-This repository contains the CI/CD pipeline for deploying a static AWS portfolio website using Amazon S3 and GitHub Actions.
-It contains my resume and some of the projects I have done. 
+This repository contains the CI/CD pipeline for deploying a static AWS portfolio website using Amazon S3 and GitHub Actions. 
 
 # Architecture Diagram
 
